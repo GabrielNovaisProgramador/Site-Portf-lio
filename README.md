@@ -10,6 +10,8 @@ Nesse curso você vai dominar o **Git** e o **GitHub** do _zero ao profissional.
 * Usando o Github de forma profissional.
 
 1. Começando com GIT.
+    1. Oque é GIT?
+    2. Instalando o GIT na máquina. 
 2. Apredendo sobre branches.
 3. GIT avançado.
 4. Usando o Github de forma profissional.
