@@ -21,4 +21,8 @@ Nesse curso você vai dominar o **Git** e o **GitHub** do _zero ao profissional.
 
 [Youtube](https://youtube.com/c/sujeitoprogramador)
 
+>Este é um bloquote, usado para destacar alguma area.
+>
+>Segunda area destacada.
+
 
