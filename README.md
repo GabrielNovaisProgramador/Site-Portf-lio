@@ -32,14 +32,15 @@ Nesse curso você vai dominar o **Git** e o **GitHub** do _zero ao profissional.
 npm start
 ```
 
-*** Exemplo de uso do script: ***
+**Exemplo de uso do script:**
 ```js
 function (name) {
     return 'Bem vindo' + name;
 }
 ```
 
-***Uso do componente HTML: ***
+
+**Uso do componente HTML:**
 ```HTML
 <h1>
     Título do projeto
@@ -47,7 +48,7 @@ function (name) {
 </h1>
 ```
 
-***CSS padrão do projeto***
+**CSS padrão do projeto**
 ```CSS
 .titulo{
     background-color: #FFF;
