@@ -61,3 +61,11 @@ function (name) {
 }
 ```
 
+Propriedade | Descrição | Página
+----------- | --------- | ------
+name | Informar o nome do usuário | Um
+size | Informar o tamanho da área | Dois
+backgroung | Informar a cor de fundo em HEX | Três
+onPress | Função chamada quando clicar no botão | Quatro
+
+
