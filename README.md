@@ -1,5 +1,10 @@
 ![Imagem do logo](https://hermes.dio.me/articles/cover/d2489f96-d56f-4b82-bc7f-84fbc9fb1368.jpg)
 
+[Bem vindo](#bem-vindo-ao-curso-de-git-e-github) |
+[Módulos](#módulo) |
+[Rede social](#rede-social) |
+[Criando para rodar o projeto](#criando-para-rodar-o-projeto)
+
 # Bem vindo ao curso de Git e GitHub.
 Nesse curso você vai dominar o **Git** e o **GitHub** do _zero ao profissional._
 
