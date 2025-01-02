@@ -63,9 +63,9 @@ function (name) {
 
 Propriedade | Descrição | Página
 ----------- | --------- | ------
-name | Informar o nome do usuário | Um
+name | Informar o **nome** do usuário | Um
 size | Informar o tamanho da área | Dois
-backgroung | Informar a cor de fundo em HEX | Três
+backgroung | Informar a cor de fundo em _HEX_ | Três
 onPress | Função chamada quando clicar no botão | Quatro
 
 
