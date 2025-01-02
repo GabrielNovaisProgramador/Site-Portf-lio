@@ -4,7 +4,7 @@
 Nesse curso você vai dominar o **Git** e o **GitHub** do _zero ao profissional._
 
 **Ultimas updates:**
-- [ ] Site responsivo.
+- [x] Site responsivo.
 - [ ] Login com Facebook.
 - [ ] Página sobre à empresa.
 
